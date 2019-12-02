@@ -1,2 +1,3 @@
 # YelpCamp
+Node.js project
 

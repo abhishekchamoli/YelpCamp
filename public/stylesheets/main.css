@@ -1,0 +1,27 @@
+body{
+    background:lightcyan;
+}
+
+.img-thumbnail img{
+    width: 100%;
+}
+
+.img-thumbnail {
+    padding: 0;
+}
+
+.caption {
+    padding: 9px;
+}
+
+#comment {
+    padding: 10px;
+}
+
+.card {
+    padding: 10px;
+}
+
+#delete-form{
+    display: inline;
+}
